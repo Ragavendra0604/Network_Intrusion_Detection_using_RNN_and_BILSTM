@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore datasets if needed
+*.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+Deep_Learning_Approaches_for_Strengthening_Network_Intrusion_Detection_Systems.pdf
